@@ -1,0 +1,1 @@
+# opencore-5600g-B550m-rx580
